@@ -1,7 +1,3 @@
-
-https://github.com/ramadani00/Probabilitas_Dan_Statistika
-
-
 # Regresi Linear Produksi Padi
 
 Repository ini berisi analisis regresi linear untuk memodelkan produksi padi berdasarkan berbagai faktor seperti luas panen, curah hujan, kelembapan, dan suhu rata-rata. Analisis dilakukan menggunakan Python dan berbagai pustaka statistik serta visualisasi.
